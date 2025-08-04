@@ -1,0 +1,54 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "Hey", "Good morning", "Good evening"],
+      "responses": ["Hello! How can I assist you with AI today?", "Hi there! Ready to talk AI?"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "Goodbye", "See you later", "Talk to you soon"],
+      "responses": ["Goodbye! Keep exploring AI!", "See you later, AI enthusiast!"]
+    },
+    {
+      "tag": "definition_ai",
+      "patterns": ["What is AI?", "Define artificial intelligence", "Explain AI"],
+      "responses": ["AI stands for Artificial Intelligence. It refers to the simulation of human intelligence in machines."]
+    },
+    {
+      "tag": "machine_learning",
+      "patterns": ["What is machine learning?", "Explain ML", "How does machine learning work?"],
+      "responses": ["Machine learning is a subset of AI that allows systems to learn from data and improve over time without being explicitly programmed."]
+    },
+    {
+      "tag": "deep_learning",
+      "patterns": ["What is deep learning?", "Explain deep neural networks", "Define deep learning"],
+      "responses": ["Deep learning is a subset of machine learning that uses neural networks with many layers to model complex patterns in data."]
+    },
+    {
+      "tag": "nlp",
+      "patterns": ["What is NLP?", "Define natural language processing", "Explain NLP"],
+      "responses": ["NLP, or Natural Language Processing, is a branch of AI focused on understanding and generating human language."]
+    },
+    {
+      "tag": "chatgpt",
+      "patterns": ["What is ChatGPT?", "Explain ChatGPT", "Tell me about ChatGPT"],
+      "responses": ["ChatGPT is a conversational AI model developed by OpenAI, based on the GPT architecture."]
+    },
+    {
+      "tag": "gpt_vs_bert",
+      "patterns": ["What is the difference between GPT and BERT?", "Compare GPT and BERT", "BERT vs GPT"],
+      "responses": ["GPT is a generative language model, while BERT is a bidirectional encoder used for understanding text. GPT is good at generation, BERT at classification and understanding."]
+    },
+    {
+      "tag": "applications_of_ai",
+      "patterns": ["What are the applications of AI?", "Where is AI used?", "How is AI applied in real life?"],
+      "responses": ["AI is used in healthcare, finance, self-driving cars, chatbots, recommendation systems, and more."]
+    },
+    {
+      "tag": "ai_tools",
+      "patterns": ["What are some popular AI tools?", "Which tools are used in AI?", "AI platforms list"],
+      "responses": ["Popular AI tools include TensorFlow, PyTorch, Hugging Face, Scikit-learn, and OpenAI APIs."]
+    }
+  ]
+}
