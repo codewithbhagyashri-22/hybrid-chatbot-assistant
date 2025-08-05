@@ -35,8 +35,8 @@ This repository contains a proof of concept (PoC) for a chatbot that uses a **hy
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/codewithbhagyashri-22/hybrid-chatbot-poc.git
-cd hybrid-chatbot-poc
+git clone https://github.com/codewithbhagyashri-22/hybrid-chatbot-assistant.git
+cd hybrid-chatbot-assistant
 pip install -r requirements.txt
 ```
 
